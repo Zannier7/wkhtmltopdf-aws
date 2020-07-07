@@ -1,0 +1,7 @@
+{
+    "name": "aws-ec2-wkhtmltopdf/wkhtmltopdf-aws-linux2-ec2",
+    "description": "Binaries wkhtmltopdf for aws ec-2",
+    "require": {
+        "php": "^7.2"
+    }
+}
